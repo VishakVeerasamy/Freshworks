@@ -1,2 +1,0 @@
-# Freshworks
-Assignment for Placement
