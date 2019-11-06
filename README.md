@@ -8,4 +8,4 @@ The time complexity of the program is O(n)
 
 ### How to Run ###
 Use terminal to run
-python merge_json.py -f <directory path> -i <input prefix. -o <output prefix> -m <Maximum Length of the Output file>
+python merge_json.py -f #directory path# -i #input prefix# -o #output prefix# -m #Maximum Length of the Output file#
